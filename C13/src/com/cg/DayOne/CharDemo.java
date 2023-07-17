@@ -3,8 +3,23 @@ package com.cg.DayOne;
 public class CharDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		char a = 67;
+		System.out.println(a);
+		
+		int b='a';
+		System.out.println(b);
+		
+		char c = '\u00A7';
+		
+		char d = '\u20AC';
+		
+		//char e = '\U+1F600';6
+		
+		System.out.println(c);
+		System.out.println(d);
+	
+	}
 
 	}
 
-}
+
